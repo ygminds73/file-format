@@ -1,0 +1,18 @@
+servers:
+  - name: server-1
+    created_by: Ram
+    os_type: Linux
+    region: ap-south-1
+    age: 3
+
+  - name: server-2
+    created_by: Shyam
+    os_type: Windows
+    region: ap-south-1
+    age: 4
+
+  - name: server-3
+    created_by: Om
+    os_type: Amazon-linux
+    region: us-east-1
+    age: 5          
