@@ -1,0 +1,27 @@
+<servers>
+
+  <server>
+  <name>server-1</name>
+  <created_by>Ram</created_by>
+  <os_type>Linux</os_type>
+  <region>ap-south-1</region>
+  <age>3</age>
+  </server>
+
+  <server>
+  <name>server-2</name>
+  <created_by>Shyam</created_by>
+  <os_type>windows</os_type>
+  <region>ap-south-1</region>
+  <age>4</age>
+  </server>
+
+  <server>
+  <name>server-3</name>
+  <created_by>Om</created_by>
+  <os_type>Amazon-linux</os_type>
+  <region>us-east-1</region>
+  <age>5</age>
+  </server>
+
+</servers>
